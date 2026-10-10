@@ -1,0 +1,6 @@
+{
+  "appId": "com.namanladdu.destiny",
+  "appName": "Destiny 💗",
+  "webDir": "web",
+  "server": { "androidScheme": "https" }
+}
